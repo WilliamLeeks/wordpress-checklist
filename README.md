@@ -16,6 +16,8 @@ However, there are some great plugins which can seriously help with the developm
 - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/)
 - [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
 - [Google Analytics by Yoast](https://wordpress.org/plugins/google-analytics-for-wordpress/)
+- [Backup Buddy](https://ithemes.com/purchase/backupbuddy/)
+- [WP Updates Notifier](https://en-gb.wordpress.org/plugins/wp-updates-notifier/) – This is a handy way to keep you notified when an update is availbel for Wordpress or one of your plugins.
 
 
 

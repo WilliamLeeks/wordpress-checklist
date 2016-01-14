@@ -13,5 +13,6 @@ This list assumes you’re comfortable with your development tools and have an e
 - Install some kind of security plugin. There are quite a few out there, see _Useful Plugins_ in the readme.
 - If you plan on having comments switched on, probably better get _Akismet_ set up.
 - Install your theme. If you want to build a bespoke design, [_HTML5 Blank_](http://html5blank.com/) works well for me.
+- Install the rest of your plugins.
 
 From here, there are a lot of options. Inevitably, this basic Wordpress installation will need to be extended with some plugins. Have a read of the _Useful Plugins_ in the readme for some ideas.
